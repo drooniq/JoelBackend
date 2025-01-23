@@ -1,0 +1,6 @@
+@JoelBackend_HostAddress = http://localhost:5041
+
+GET {{JoelBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
